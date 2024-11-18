@@ -61,14 +61,3 @@ Follow these steps to set up and run the TUS Mind App:
    git clone https://github.com/YourGitHubAccount/TUSMindApp.git
 
 
----
-
-## <a id="usage"></a>Usage
-1. **<strong>Explore Activities</strong>**: 
-   - Select the time you have available (5 min, 15 min, 30 min, 45 min, or 1 hour) and receive personalized suggestions for nature-based activities such as walking, running, or cycling.
-2. **<strong>Meditate</strong>**:
-   - Choose from guided meditation sessions that can be integrated with physical activities or enjoyed as standalone practices for mindfulness and stress relief.
-3. **<strong>Find Green Spaces</strong>**: 
-   - Use the app’s location-based feature to discover nearby parks and green areas. Get directions and learn about nature-friendly locations for outdoor activities, even if you’re off-campus.
-4. **<strong>Join Mindful Monday</strong>**:
-   - Stay updated with notifications about the weekly “Mindful Monday” group meditation event on campus, designed to bring students together for mindfulness practice and stress management.
