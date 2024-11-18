@@ -24,13 +24,13 @@ Our solution integrates activity suggestions, guided meditation, and information
 
 ## <a id="features"></a>Features
 - **Activity Suggestions by Duration**:
-  - Choose activities like walking, running, or cycling based on your available time (5 min, 15 min, 30 min, 45 min, or 1 hour).
+  - Choose activities like walking based on your available time (5 min, 15 min, 30 min).
 - **Meditation Options**:
   - Access guided meditation sessions, either integrated with physical activities or as standalone sessions.
 - **Green Space Recommendations**:
   - Get directions to nearby parks and green spaces, or discover nature-friendly locations for outdoor activities.
 - **Group Meditation Class Notification**:
-  - Receive reminders about the weekly “Mindful Monday” meditation session on campus.
+  - Receive reminders about the weekly “Mindful Monday” meditation session on campus and yoga classes.
 
 ---
 
