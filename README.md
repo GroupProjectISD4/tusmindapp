@@ -10,7 +10,7 @@ Welcome to **TUS Mind App**, a mobile application developed to support student m
 - <a href="#team-members">Team Members</a>
 - <a href="#technologies">Technologies</a>
 - <a href="#getting-started">Getting Started</a>
-- <a href="#usage">Usage</a>
+
 
 
 ---
