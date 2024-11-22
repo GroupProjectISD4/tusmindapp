@@ -309,3 +309,4 @@ app/build/tmp/kotlin-classes/debug/com/example/tusmind/WelcomeScreenKt$WelcomeSc
 app/build/tmp/kotlin-classes/debug/com/example/tusmind/WelcomeScreenKt.class
 app/build/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module
 local.properties
+.idea/workspace.xml
